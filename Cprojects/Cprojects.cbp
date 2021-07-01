@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Cprojects" />
+		<Option pch_mode="2" />
+		<Option compiler="gnu_gcc_compiler_x86" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Cprojects" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gnu_gcc_compiler_x86" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Cprojects" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gnu_gcc_compiler_x86" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="1.prime-1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="2.prime-2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="3.prime-3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="4.prime-4 using function.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="5.Pattern of star.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="5.Pattern.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="6.Largest among 2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="6.Largest smallest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DS Assign - 2(Project).c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

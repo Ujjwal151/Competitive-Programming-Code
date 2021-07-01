@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="CF Accepted" />
+		<Option pch_mode="2" />
+		<Option compiler="gnu_gcc_compiler_x86" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/CF Accepted" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gnu_gcc_compiler_x86" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/CF Accepted" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gnu_gcc_compiler_x86" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="1.71A_way to long word.cpp" />
+		<Unit filename="13.236A boy or girl.cpp" />
+		<Unit filename="13.OR.cpp" />
+		<Unit filename="14.96A_Football.cpp" />
+		<Unit filename="16.546A_Soldier and Banana.cpp" />
+		<Unit filename="17.791A_Bear and Big brother.cpp" />
+		<Unit filename="19.1060A_Phone number.cpp" />
+		<Unit filename="2.1A_Theatre square.cpp" />
+		<Unit filename="20.271A_beautiful year.cpp" />
+		<Unit filename="3.231A_Team.cpp" />
+		<Unit filename="4.158A_Next round.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="tst.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
